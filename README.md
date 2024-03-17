@@ -11,15 +11,20 @@ Welcome to the Matching Game! This is a fun and interactive game where you match
 ### Claim Your Username
 ![Claim Your Username](https://github.com/Ayush19bansal/Matching-Game/assets/118842033/f8a22aab-0fb1-4c73-84dd-38b6fa6fb4c9)
 
+![Navigate Back and Forward](https://github.com/Ayush19bansal/Matching-Game/assets/118842033/0e20af05-9c53-42b3-b687-ac146a4f565f)
+
 In this image, you can see that you have the opportunity to claim your username with cool sound effects and a stylish button.
 
 ### Navigate Back and Forward
-![Navigate Back and Forward](https://github.com/Ayush19bansal/Matching-Game/assets/118842033/0e20af05-9c53-42b3-b687-ac146a4f565f)
+![image](https://github.com/Ayush19bansal/Matching-Game/assets/118842033/e953d252-0c95-4ee5-8eca-22624d0920c1)
+
+![Game Started with Timer and Life Points](https://github.com/Ayush19bansal/Matching-Game/assets/118842033/3b818adf-1b67-4449-8216-57309c30d712)
+
 
 Here, you can see that you can navigate back and forth within the game.
 
 ### Game Started with Timer and Life Points
-![Game Started with Timer and Life Points](https://github.com/Ayush19bansal/Matching-Game/assets/118842033/3b818adf-1b67-4449-8216-57309c30d712)
+
 
 The game has started! You can see the timer, set at 30 seconds, and your life points, set at 5. If the time runs out or your life points reach zero, the game ends and you are redirected to the final page.
 
