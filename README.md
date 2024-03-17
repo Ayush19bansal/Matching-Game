@@ -26,12 +26,16 @@ In this image, you can see that you have the opportunity to claim your username 
 Here, you can see that you can navigate back and forth within the game.
 
 ### Game Started with Timer and Life Points
+![image](https://github.com/Ayush19bansal/Matching-Game/assets/118842033/86e39909-9fae-4499-8d84-f5c28430790e)
 
 
 The game has started! You can see the timer, set at 30 seconds, and your life points, set at 5. If the time runs out or your life points reach zero, the game ends and you are redirected to the final page.
 
 ### Alert Pop-up for Low Time and Last Chance
-![Alert Pop-up for Low Time and Last Chance](https://github.com/Ayush19bansal/Matching-Game/assets/118842033/cb076074-af88-4274-87e3-eeed811fcf4c)
+![image](https://github.com/Ayush19bansal/Matching-Game/assets/118842033/0897545e-1768-489a-9062-79cff8f1e94a)
+
+![image](https://github.com/Ayush19bansal/Matching-Game/assets/118842033/e0d23b8f-6073-4462-9e1c-7370a411441a)
+
 
 In this image, you can see an alert pop-up notifying you that time is running low or that you have one last chance remaining, accompanied by appropriate sound effects.
 
