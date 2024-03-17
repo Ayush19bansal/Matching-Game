@@ -50,7 +50,7 @@ function GamePlay() {
   const [blueSelected, setblueSelected] = useState(null);
   const [Progressbar, setProgressbar] = useState(0);
   const [timer, setTimer] = useState(17);
-  const [life, setLife] = useState(5);
+  let [life, setLife] = useState(5);
   const [countBanana, setCountBanana] = useState(0);
   const overlayRef = useRef(null);
   const navigate = useNavigate();
@@ -174,14 +174,17 @@ function GamePlay() {
           resetTurn();
         }, 1500);
       } else {
+
+        life=life-1;
+        
         playSoundEffect("cancel")
-        setLife(life - 1);
-        if (life === 1) {
+        if (life === 0) {
           goToFinal();
-        } else if (life === 2) {
+        } else if (life === 1) {
           errorNotification("One last chance");
           playSoundEffect("heartbeat");
         }
+        setLife(life);
         setTimeout(() => {
           resetTurn();
         }, 1000);

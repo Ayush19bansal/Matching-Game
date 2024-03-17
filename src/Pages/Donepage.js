@@ -30,7 +30,7 @@ function Donepage() {
       <div className="remaining">
         <h1>Remaining</h1>
       <p style={{color:"#FFCF25"}} >❤️ {
-          ctx.lifecount===1?1:ctx.lifecount
+          ctx.lifecount
           }</p>
 
       <p style={{color:"#FFCF25"}}>
