@@ -1,0 +1,172 @@
+#monkeyhappy {
+  position: absolute;
+  top: 30%;
+  width: 500px;
+  left: 37%;
+}
+
+.text {
+  position: absolute;
+  font-size: 18px;
+  line-height: 1;
+  width: 400px;
+  background: #fff;
+  border-radius: 40px;
+  height: 85px;
+  padding: 20px;
+  text-align: center;
+  color: #11aec6;
+  top: 23%;
+  left: 55%;
+}
+
+.texts {
+  position: absolute;
+  font-size: 14px;
+  line-height: 1;
+  width: 400px;
+  background: #fff;
+  border-radius: 40px;
+  height: 90px;
+  padding: 16px;
+  text-align: center;
+  color: #11aec6;
+  top: 23%;
+  left: 55%;
+}
+
+.text h1 {
+  position: absolute;
+  z-index: 1;
+  margin-left: 20px;
+}
+
+.smallborder:before {
+  content: "";
+  width: 0px;
+  height: 0px;
+  position: absolute;
+  border-left: 24px solid #fff;
+  border-right: 12px solid transparent;
+  border-top: 12px solid #fff;
+  border-bottom: 20px solid transparent;
+  left: 32px;
+  bottom: -24px;
+}
+
+.btn {
+  position: absolute;
+  top: 86%;
+  left: 84%;
+  background: none;
+  border: none;
+}
+
+.btn img {
+  animation: infinite .5s ease-in infinite alternate;
+  width: 13rem;
+}
+
+.back {
+  position: absolute;
+  top: 3%;
+  left: 3%;
+  background: none;
+  border: none;
+  animation: infinite .5s ease-in infinite alternate;
+}
+
+.back img {
+  width: 7rem;
+}
+
+.buttonuser {
+  top: 7%;
+  left: 4%;
+  position: absolute;
+  width: fit-content;
+  display: flex;
+  padding: 20px;
+  gap: 0.4rem;
+  border: none;
+  font-weight: bold;
+  border-radius: 30px;
+  cursor: pointer;
+  text-shadow: 2px 2px 3px rgb(136 0 136 / 50%);
+  background: linear-gradient(15deg, #880088, #aa2068, #cc3f47, #de6f3d, #f09f33, #de6f3d, #cc3f47, #aa2068, #880088)
+    no-repeat;
+  background-size: 300%;
+  background-position: left center;
+  transition: all 0.3s ease;
+  color: #fff;
+  animation: infinite .5s ease-in infinite alternate;
+}
+
+.buttonuser:hover {
+  background-size: 320%;
+  background-position: right center;
+}
+
+.buttonuser:hover svg {
+  fill: #fff;
+}
+
+.buttonuser svg {
+  width: 23px;
+  fill: #f09f33;
+  transition: 0.3s ease;
+}
+
+@keyframes infinite {
+  100% {
+    transform: scale(105%);
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  /* Adjustments for smaller screens */
+  #monkeyhappy {
+    width: 300px;
+    left: 25%;
+  }
+  
+  .text,
+  .texts {
+    width: 300px;
+    left: 40%;
+  }
+
+  .btn {
+    top: 92%;
+    left: 80%;
+  }
+
+  .back {
+    top: 2%;
+    left: 2%;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  /* Adjustments for even smaller screens */
+  #monkeyhappy {
+    width: 200px;
+    left: 20%;
+  }
+  
+  .text,
+  .texts {
+    width: 250px;
+    left: 35%;
+  }
+
+  .btn {
+    top: 92%;
+    left: 80%;
+  }
+
+  .back {
+    top: 2%;
+    left: 2%;
+  }
+}
