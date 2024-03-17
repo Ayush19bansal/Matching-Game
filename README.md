@@ -45,6 +45,9 @@ In this image, you can see an alert pop-up notifying you that time is running lo
 ![47](https://github.com/Ayush19bansal/Matching-Game/assets/118842033/57e57ebc-f5d3-400d-82c7-0b605c887943)
 
 The final page displays how many bananas you were able to collect within the given time and life points and how much time or life remaining.
+ #### I am able to Collect : 3 Banana's in this image
+ #### Remaining ❤️ is 0
+ #### Remaining 🕰️ is 9 sec
 
 ## Description
 
