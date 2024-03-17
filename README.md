@@ -19,6 +19,8 @@ In this image, you can see that you have the opportunity to claim your username 
 ![image](https://github.com/Ayush19bansal/Matching-Game/assets/118842033/e953d252-0c95-4ee5-8eca-22624d0920c1)
 
 ![Game Started with Timer and Life Points](https://github.com/Ayush19bansal/Matching-Game/assets/118842033/3b818adf-1b67-4449-8216-57309c30d712)
+![Final Page](https://github.com/Ayush19bansal/Matching-Game/assets/118842033/507be98d-5a2e-483d-a116-148fc46c6539)
+
 
 
 Here, you can see that you can navigate back and forth within the game.
@@ -34,7 +36,7 @@ The game has started! You can see the timer, set at 30 seconds, and your life po
 In this image, you can see an alert pop-up notifying you that time is running low or that you have one last chance remaining, accompanied by appropriate sound effects.
 
 ### Final Page
-![Final Page](https://github.com/Ayush19bansal/Matching-Game/assets/118842033/507be98d-5a2e-483d-a116-148fc46c6539)
+
 
 The final page displays how many bananas you were able to collect within the given time and life points.
 
