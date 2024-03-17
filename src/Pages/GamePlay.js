@@ -49,7 +49,7 @@ function GamePlay() {
   const [pinkSelected, setpinkSelected] = useState(null);
   const [blueSelected, setblueSelected] = useState(null);
   const [Progressbar, setProgressbar] = useState(0);
-  const [timer, setTimer] = useState(17);
+  const [timer, setTimer] = useState(30);
   let [life, setLife] = useState(5);
   const [countBanana, setCountBanana] = useState(0);
   const overlayRef = useRef(null);
