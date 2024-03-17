@@ -181,6 +181,9 @@
   margin-top: 6px;
   
 }
+.btn,.back{
+  cursor: pointer;
+}
 .remaining{
   position: absolute;
   right: 2%;
